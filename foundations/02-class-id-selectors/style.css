@@ -1,0 +1,18 @@
+.pinky{
+    background-color: rgb(248, 61, 92);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#july{
+    background-color: rgb(62, 230, 62);
+    font-weight: 700;
+}
+
+.big{
+    font-size: 24px;
+}
+
+#pair{
+    font-size: 36px;
+    color: rgb(64, 64, 233);
+}
